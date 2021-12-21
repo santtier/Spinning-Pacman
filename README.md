@@ -1,5 +1,6 @@
 # Spinning-Pacman
 ![](images/pacman.gif)
+
 It's a project where yo have to play with the mouse and the pacmans follow you around. Also I use the Pointer event API so this project support touch too.
 ## Technologies
 A list of technologies used within the project:
